@@ -120,7 +120,7 @@ PHP Assessment
 2 {
 3    header('locaton: /login.php');
 4    exit;
-5 }
+5 }0
 ```
 - This script times out the session for myusername.
 - Cookies are starting to be stored as a result of this script.
